@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/HowdyChallenge/HowdyChallenge/bin/Debug/net6.0
+/src/HowdyChallenge/HowdyChallenge/obj
+/src/HowdyChallenge/.vs/HowdyChallenge
+/src/HowdyChallenge/HowdyChallenge/data.json.bak
+/src/HowdyChallenge/.vs/ProjectEvaluation
